@@ -1,0 +1,33 @@
+.header-section{
+    background-position:center top;
+    background-size: cover;
+
+    background:url(../images/banner-bg.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    
+
+}
+.animation{
+
+background-image:url(../images/bgimage.png);
+background-repeat: no-repeat;
+background-position: fixed;
+width: 100%;
+min-height: 650px;
+overflow: hidden;
+
+
+
+}
+.contact{
+background-image:url(../images/contact-bg.png);
+background-repeat: no-repeat;
+background-position: fixed;
+width: 100%;
+min-height: 400px;
+overflow: hidden;
+
+}
+
+
